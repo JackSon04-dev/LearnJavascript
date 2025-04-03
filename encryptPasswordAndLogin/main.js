@@ -114,3 +114,4 @@ let password = setPassword();
 login();
 //Hiện thị inf
 displayUserInfo();
+console.log("Hello");

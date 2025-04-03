@@ -29,3 +29,4 @@ function timeSince(timestamp) {
 
 let time = 1743078420588;
 console.log(timeSince(time));
+console.log("Hello");

@@ -10,3 +10,4 @@ function calculateYear(inputYear) {
 
 let a = prompt("Nhập năm sinh");
 calculateYear(a);
+console.log("Hello");

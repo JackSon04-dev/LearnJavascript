@@ -19,3 +19,4 @@ function countdownTime(minutes) {
 
 let timeInput = prompt("Mời nhập số phút");
 countdownTime(timeInput);
+console.log("Hello");

@@ -71,3 +71,4 @@ if (arrCheck.length === 0) {
     `Giá trị ${convertedValue} xuất hiện trong mảng tại vị trí index: ${arrCheck.join()}`
   );
 }
+console.log("Hello");
